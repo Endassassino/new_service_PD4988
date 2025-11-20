@@ -1,0 +1,107 @@
+1. Miesiąc 1 – Organizacja i formalności
+
+01.03–15.03.2026
+
+Przygotowanie dokumentacji projektowej i technologicznej.
+
+Złożenie wniosków do SANEPID, BHP i ppoż.
+
+Ukończenie etapu: 15.03.2026
+
+16.03–31.03.2026
+
+Wybór dostawców sprzętu i systemu LIS.
+
+Podpisanie umów zakupowych.
+
+Ukończenie etapu: 31.03.2026
+
+2. Miesiąc 2 – Adaptacja pomieszczeń
+
+01.04–20.04.2026
+
+Prace adaptacyjne: punkt pobrań, pracownia analityczna, magazyn próbek.
+
+Montaż instalacji technicznych (wentylacja, chłodnie, zabezpieczenia).
+
+Ukończenie etapu: 20.04.2026
+
+21.04–30.04.2026
+
+Przygotowanie infrastruktury IT i sieci.
+
+Wstępna konfiguracja LIS.
+
+Ukończenie etapu: 30.04.2026
+
+3. Miesiąc 3 – Dostawy i instalacje
+
+01.05–10.05.2026
+
+Dostawa analizatorów (hematologia, biochemia, immunochemia).
+
+Instalacja urządzeń i przygotowanie stanowisk pracy.
+
+Ukończenie etapu: 10.05.2026
+
+11.05–25.05.2026
+
+Kalibracja, testy techniczne, walidacja metod.
+
+Tworzenie procedur i dokumentacji (GLP, ISO).
+
+Ukończenie etapu: 25.05.2026
+
+4. Miesiąc 4 – Rekrutacja i szkolenia
+
+26.05–10.06.2026
+
+Rekrutacja diagnostów i techników laboratoryjnych.
+
+Podpisanie umów i wdrożenie personelu.
+
+Ukończenie etapu: 10.06.2026
+
+11.06–25.06.2026
+
+Szkolenia z obsługi aparatury i procedur jakości.
+
+Testowa, wewnętrzna praca laboratorium.
+
+Ukończenie etapu: 25.06.2026
+
+5. Miesiąc 5 – Uruchomienie operacyjne
+
+01.07–10.07.2026
+
+Otworzenie punktu pobrań.
+
+Uruchomienie podstawowych badań (morfologia, biochemia, hormony).
+
+Ukończenie etapu: 10.07.2026
+
+11.07–31.07.2026
+
+Monitorowanie procesów, wprowadzanie korekt.
+
+Integracja LIS z platformami medycznymi partnerów.
+
+Ukończenie etapu: 31.07.2026
+
+6. Miesiąc 6 – Stabilizacja i rozszerzenie usług
+
+01.08–20.08.2026
+
+Rozszerzenie zakresu badań o pakiety specjalistyczne.
+
+Udział w zewnętrznych programach kontroli jakości.
+
+Ukończenie etapu: 20.08.2026
+
+21.08–31.08.2026
+
+Ostateczna optymalizacja organizacji pracy.
+
+Przygotowanie raportu wdrożeniowego.
+
+Ukończenie etapu: 31.08.2026
