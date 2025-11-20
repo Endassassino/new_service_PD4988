@@ -1,0 +1,75 @@
+Ankieta dla potencjalnych klientów laboratorium diagnostycznego
+
+1. Jak często wykonujesz badania laboratoryjne?
+
+☐ Regularnie, co 3–6 miesięcy
+
+☐ Raz w roku
+
+☐ Rzadziej niż raz w roku
+
+☐ Tylko gdy zaleci lekarz
+
+2. Jakie badania wykonujesz najczęściej? (możesz wybrać kilka)
+
+☐ Morfologia
+
+☐ Biochemia (np. glukoza, cholesterol)
+
+☐ Hormony (tarczyca, płciowe)
+
+☐ Badania mikrobiologiczne
+
+☐ Badania moczu
+
+☐ Badania specjalistyczne (np. markery)
+
+☐ Nie wiem / zależy od lekarza
+
+3. Co jest dla Ciebie najważniejsze przy wyborze laboratorium?
+
+☐ Krótki czas oczekiwania na wynik
+
+☐ Szeroka oferta badań
+
+☐ Cena badań
+
+☐ Lokalizacja i dostępność
+
+☐ Opinie pacjentów
+
+☐ Nowoczesny sprzęt i jakość
+
+4. Jak oceniasz swoją świadomość w zakresie profilaktyki zdrowotnej?
+
+☐ Bardzo dobrą
+
+☐ Dobrą
+
+☐ Przeciętną
+
+☐ Niską
+
+5. W jaki sposób preferujesz odbierać wyniki badań?
+
+☐ Online (panel pacjenta)
+
+☐ E-mail
+
+☐ Odbiór osobisty w laboratorium
+
+☐ Nie mam preferencji
+
+6. Co skłoniłoby Cię do skorzystania z nowego laboratorium diagnostycznego?
+
+☐ Promocyjne pakiety badań
+
+☐ Krótki czas realizacji
+
+☐ Nowoczesna i komfortowa obsługa
+
+☐ Polecenie od znajomego lub lekarza
+
+☐ Program lojalnościowy
+
+☐ Inne: ___________________________
